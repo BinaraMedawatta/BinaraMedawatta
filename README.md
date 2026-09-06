@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BinaraMedawatta
 - 👀 I’m interested in IoT, Web and Mobile application development
-- 🌱 I’m currently working with Node, React and Angular
+- 🌱 I’m currently working with Node and React
 - 💞️ I’m looking to collaborate on IoT projects
 - 📫 How to reach me [LinkedIn: Binara Medawatta](https://www.linkedin.com/in/binara-medawatta/)
 
